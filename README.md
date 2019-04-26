@@ -1,2 +1,7 @@
-# blogs
-一个简易的blogs
+├── _config.yml
+├── package.json
+├── scaffolds
+├── source
+|   ├── _drafts
+|   └── _posts
+└── themes
